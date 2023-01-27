@@ -1,53 +1,61 @@
 body{
-    margin: 20% 20% 20% 20%;
+    margin: 8rem;
+    max-width: 1440px;
+    max-height: 1440px;
+    background-color:  hsl(210, 46%, 95%);
 }
-.main_div{
-    border: 2px solid red;
-    width: 100%;
-}
-.t3{
-    border: 2px solid black;
-    width: 20%;
-    max-height: 100%;
+.c3{
+    display: flex;
+    width: 10rem;
     float: right;
-
+    margin-left: 3%;
+    background-color: hsl(0,0%,100%);
 }
 .c1{
     display: flex;
     gap: 3%;
-    width: 77%;
-    height: 50%;
+    margin-bottom: 3%;
+    color: white;
 }
 .c2{
     display: flex;
     gap: 3%;
-    width: 77%;
-    height: 50%;
+}
+.div_border2{
+    border: 2px solid black;
+    border-radius: 5px;
+    color: white;
 }
 
-.p1{}
-.p2{}
+.p1{
+    font-size: x-small;
+    float: left;
+
+}
+span{
+    display: flex;
+    opacity: 50%;
+    margin-left: 10px;
+}
+
+.p2{
+    font-size: large;
+    alignment: left;
+    float: left;
+    font-weight: bold;
+}
 .p3{
-    height: 100%;
+    opacity: 70%;
+    font-size: x-small;
+    float: left
 }
 
-.t1{
-    border: 2px solid black;
-    width: %;
-    height: %;
+p{
+    padding: 4px;
+    margin: 6px;
 }
-.t2{
+
+.div_border{
     border: 2px solid black;
-    width: %;
-    height: %;
-}
-.t4{
-    border: 2px solid black;
-    width: %;
-    height: %;
-}
-.t5{
-    border: 2px solid black;
-    width: %;
-    height: %;
+    border-radius: 7px;
 }
