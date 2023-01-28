@@ -4,13 +4,6 @@ body{
     max-height: 1440px;
     background-color:  hsl(210, 46%, 95%);
 }
-.c3{
-    display: flex;
-    width: 10rem;
-    float: right;
-    margin-left: 3%;
-    background-color: hsl(0,0%,100%);
-}
 .c1{
     display: flex;
     gap: 3%;
@@ -20,6 +13,13 @@ body{
 .c2{
     display: flex;
     gap: 3%;
+}
+.c3{
+    display: flex;
+    width: 10rem;
+    float: right;
+    margin-left: 3%;
+    background-color: hsl(0,0%,100%);
 }
 .div_border2{
     border: 2px solid black;
@@ -51,8 +51,8 @@ span{
 }
 
 p{
-    padding: 4px;
-    margin: 6px;
+    padding: 5px;
+    margin: 10px;
 }
 
 .div_border{
