@@ -16,19 +16,16 @@ img{
 }
 .c1{
     display: flex;
-    flex-wrap: wrap;
     gap: 3%;
     margin-bottom: 3%;
     color: white;
 }
 .c2{
     display: flex;
-    flex-wrap: wrap;
     gap: 3%;
 }
 .c3{
     display: flex;
-    flex-wrap: wrap;
     width: 10rem;
     float: right;
     margin-left: 3%;
